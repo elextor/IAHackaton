@@ -2,7 +2,11 @@
 Hackaton mtc
 ![Aquí la descripción de la imagen por si no carga](https://github.com/elextor/IAHackaton/blob/main/diagrama.png)
 
- """
+
+
+st.subheader("Notas")
+st.write(
+    """
     - El dashboar esta desarrollado en [Streamlit](https://streamlit.io/) y python    
     - Se comsumen los datos mediante el API de google firebase Google Cloud.
     - Para Los graficos interactivos se usaron las librerias Plotly y seaborn.
@@ -19,3 +23,17 @@ Hackaton mtc
    
     Desarrollado por  [Hector Jakson letona Q ](https://www.linkedin.com/in/hector-jakson-letona-377b4b201/). 
     """
+)
+
+st.markdown(
+    """
+    ### Codigo 
+    El codigo en Python y JAVA estaran disponibles en cuanto finalicen el evento en el repositorio de GITHUB data is from  https://github.com/elextor
+    """
+)
+st.markdown(
+    " Peru , 30 de setiembre del 2021 , AI - IACKATON - MTC"
+)
+
+
+st.markdown("![visitors](https://visitor-badge.glitch.me/badge?page_id=remingm.covid)")
