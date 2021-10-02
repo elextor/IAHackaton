@@ -5,7 +5,7 @@ Hackaton mtc
 * Procesar los datos obtenidos e Inventariar en tiempo real Semaforos utilizando Geolocacion y QR 
 * Genear una base de datos de imagenes para posteriormente  etiquetalos  por un modelo IA y validar las imagenes.
 * **DashBoar Web** Visualizar en un DashBoar los datos obtenidos por la APP-movil en un mapa georefrenciados  y obtener indicadores
-* 
+*  El dashboar  desarrolado en Python 
 ![Aquí la descripción de la imagen por si no carga](https://github.com/elextor/IAHackaton/blob/main/diagrama.png)
 
 
